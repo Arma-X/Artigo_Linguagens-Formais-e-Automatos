@@ -10,7 +10,7 @@ O trabalho consiste na criação de uma máquina de estados finitos (MEF) e uma 
 de Turing (MT) visando corresponder ao problema 1(MEF) e problema 2 (MT) apresentados 
 no objetivo do trabalho.
 
-*Palavras chave: Maquina de estados finitos, Maquina de Turing, Autômato finito, Linguagem formal.
+* Palavras chave: Maquina de estados finitos, Maquina de Turing, Autômato finito, Linguagem formal.
 
 # Abstract
 
