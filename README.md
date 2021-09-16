@@ -28,8 +28,6 @@ of the work.
 __________________________________________________________________________________________
 
 
-_Trabalho de Linguagens Formais e Autômatos_ 
-
 # Requisitos para rodar os codigos fonte das maquinas # 
 
 -Python instalado e atualizado (python >= v3.8.5).
