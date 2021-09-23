@@ -46,5 +46,5 @@ Execute o código fonte escolhido através do software (ou execute no terminal a
 
 # Edição dos códigos
 
-Caso seja necessário editar a lista de estados (MEF), lista de quíntuplas (MT) ou estado de aceitação para testar uma outro automato, Utilizar um software de edição de texto ou arquivo ".py" para alterar os dados manualmente.
+Caso seja necessário editar a lista de estados (MEF), lista de quíntuplas (MT) ou estado de aceitação para testar um outro automato, Utilizar um software de edição de texto no arquivo ".py" para alterar os dados manualmente.
 
